@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulhakimjnr
-- 👀 I’m interested in Ful web development 
+- 👀 I’m interested in Ful web developer 
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on creating new website
 - 📫 How to reach me abdulhakimgh450@gmail.com 
